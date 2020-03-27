@@ -1,0 +1,2 @@
+# myresource
+myresource
